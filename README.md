@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rekhaswaminathan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/REKHA SWAMINATHAN/">MCA GRADUATE</a>, <a/>
+<h1>Hi, I'm Rekhaswaminathan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/REKHASWAMINATHAN/">MCA GRADUATE</a>, <a/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -13,7 +13,8 @@ interactively and the search engine would refine the products available based on
 user’s input. The user can then view the complete specification of each product. They can
 also view the product reviews and also write their own reviews. The application also
 provides a drag and drop feature so that a user can add a product to the shopping cart by
-dragging the item in to the shopping cart. The main emphasis lies in providing a userfriendly search engine for effectively showing the desired results and its drag and drop
+dragging the item in to the shopping cart. The main emphasis lies in providing a userfriendly
+search engine for effectively showing the desired results and its drag and drop
 behavior.
 <h2>📺 courses and certifications</h2>
 
@@ -48,7 +49,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
