@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rekhaswaminathan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/REKHASWAMINATHAN/">MCA GRADUATE</a>, <a/>
+<h1>Hi, I'm Rekhaswaminathan! <br/><a href="https://github.com/rekha1215">Programmer</a>, <a href="https://www.linkedin.com/in/REKHASWAMINATHAN/">MCA GRADUATE</a>, <a/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
